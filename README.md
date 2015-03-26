@@ -1,2 +1,2 @@
-# phone-tablet-specs.com
-phone-tablet-specs.com site
+# http://phone-tablet-specs.com
+http://phone-tablet-specs.com site
